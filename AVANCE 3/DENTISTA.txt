@@ -1,0 +1,31 @@
+
+Lista: -858993460
+NombreAYEYI
+Fecha: 25
+Hora: 4
+Descripci¢n: LEER
+Cantidad: 200
+Precio: 2
+Subtotal: 400
+IVA: 64
+Total: 464
+Lista: -858993459
+NombreANGEL
+Fecha: 13
+Hora: 4
+Descripci¢n: NOOB
+Cantidad: 2
+Precio: 200
+Subtotal: 400
+IVA: 64
+Total: 464
+Lista: -858993459
+NombreAME
+Fecha: 30
+Hora: 7
+Descripci¢n: BLANQUEAMIENTO 
+Cantidad: 1
+Precio: 100
+Subtotal: 100
+IVA: 16
+Total: 116
